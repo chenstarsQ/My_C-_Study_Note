@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "D:\\MyData\\chenxing8\\.nuget\\packages\\": {},
+    "C:\\Users\\chens\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\python\\GitHub\\My_C#_Study_Note\\helloworld\\helloworld.csproj",
+      "projectUniqueName": "E:\\C#\\My_C-_Study_Note\\helloworld\\helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "D:\\python\\GitHub\\My_C#_Study_Note\\helloworld\\helloworld.csproj",
-      "packagesPath": "D:\\MyData\\chenxing8\\.nuget\\packages\\",
-      "outputPath": "D:\\python\\GitHub\\My_C#_Study_Note\\helloworld\\obj\\",
+      "projectPath": "E:\\C#\\My_C-_Study_Note\\helloworld\\helloworld.csproj",
+      "packagesPath": "C:\\Users\\chens\\.nuget\\packages\\",
+      "outputPath": "E:\\C#\\My_C-_Study_Note\\helloworld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "D:\\MyData\\chenxing8\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\chens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
